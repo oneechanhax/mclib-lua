@@ -1,0 +1,6 @@
+[submodule "lib/mclib"]
+	path = lib/mclib
+	url = https://github.com/plushmonkey/mclib/
+[submodule "lib/luaaa"]
+	path = lib/luaaa
+	url = https://github.com/gengyong/luaaa
